@@ -24,7 +24,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/15_Intro-Component-With-Signup-Form-Master/](https://seismicman.github.io/15_Intro-Component-With-Signup-Form-Master/)
+Solution URL: [https://seismicman.github.io/16_Single-Price-Grid-Component-Master/](https://seismicman.github.io/16_Single-Price-Grid-Component-Master/)
 
 ## My process
 
